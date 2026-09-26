@@ -41,6 +41,20 @@ button {
 button:hover {
     transform: scale(1.1);
 }
+.order-button {
+    display: inline-block;
+    background: blue;
+    color: white;
+    text-decoration: none;
+    padding: 15px 30px;
+    font-size: 18px;
+    border-radius: 10px;
+    transition: 0.2s;
+}
+
+.order-button:hover {
+    transform: scale(1.1);
+}
 
 
 
